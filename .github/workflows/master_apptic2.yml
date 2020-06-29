@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'apptic2'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_af8e4aefc02b46ac8faa463a87c6177e }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_88585b3007db4e1699624879796519c7 }}
